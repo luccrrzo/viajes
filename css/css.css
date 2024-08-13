@@ -1,0 +1,12 @@
+.cars2{
+    padding-left: 25px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    place-content: center; 
+}
+.fw-light{
+    font-size: 10px;
+}
+.boton{
+    padding-left: 3%;
+}
